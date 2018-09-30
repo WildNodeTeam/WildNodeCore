@@ -1,0 +1,26 @@
+# /etc/conf.d/wildnoded: config file for /etc/init.d/wildnoded
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/wildnode/wildnode.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/wildnoded"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/wildnoded.pid"
+
+# Where to write wildnoded data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/wildnoded"
+
+# User and group to own wildnoded process
+#BITCOIND_USER="wildnode"
+#BITCOIND_GROUP="wildnode"
+
+# Path to wildnoded executable
+#BITCOIND_BIN="/usr/bin/wildnoded"
+
+# Nice value to run wildnoded under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

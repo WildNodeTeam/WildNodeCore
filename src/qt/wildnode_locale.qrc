@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/wildnode_bg.qm</file>
+        <file alias="ca">locale/wildnode_ca.qm</file>
+        <file alias="cs">locale/wildnode_cs.qm</file>
+        <file alias="da">locale/wildnode_da.qm</file>
+        <file alias="de">locale/wildnode_de.qm</file>
+        <file alias="en">locale/wildnode_en.qm</file>
+        <file alias="en_US">locale/wildnode_en_US.qm</file>
+        <file alias="es">locale/wildnode_es.qm</file>
+        <file alias="fi">locale/wildnode_fi.qm</file>
+        <file alias="fr_FR">locale/wildnode_fr_FR.qm</file>
+        <file alias="hr">locale/wildnode_hr.qm</file>
+        <file alias="it">locale/wildnode_it.qm</file>
+        <file alias="ja">locale/wildnode_ja.qm</file>
+        <file alias="ko_KR">locale/wildnode_ko_KR.qm</file>
+        <file alias="nl">locale/wildnode_nl.qm</file>
+        <file alias="pl">locale/wildnode_pl.qm</file>
+        <file alias="pt">locale/wildnode_pt.qm</file>
+        <file alias="pt_BR">locale/wildnode_pt_BR.qm</file>
+        <file alias="ro_RO">locale/wildnode_ro_RO.qm</file>
+        <file alias="ru">locale/wildnode_ru.qm</file>
+        <file alias="sk">locale/wildnode_sk.qm</file>
+        <file alias="sv">locale/wildnode_sv.qm</file>
+        <file alias="tr">locale/wildnode_tr.qm</file>
+        <file alias="uk">locale/wildnode_uk.qm</file>
+        <file alias="zh_CN">locale/wildnode_zh_CN.qm</file>
+        <file alias="zh_TW">locale/wildnode_zh_TW.qm</file>
+    </qresource>
+</RCC>
